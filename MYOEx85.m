@@ -1,4 +1,4 @@
-function MYOEx85
+/ufunction MYOEx85
 % MYOEx85  Head loss problem of Example 8.5 in Munson, Young and Okiishi
 % --- Define constants for the system and its components
 L = 4;          %  Pipe length (m)
